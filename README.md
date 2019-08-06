@@ -1,6 +1,6 @@
 # sortingAlgorithms
 Sorting Algorithms - Python
-File consists of sorting algorithms written in python below.
-**Bubble
-**Insertion
-**Selection
+<br>File consists of sorting algorithms below written in python.
+<p>Bubble
+<p>Insertion
+<p>Selection
